@@ -4,7 +4,7 @@
 
 **YAWA** is a frontend-only web app that shows real-time weather for any city in the world. Built with plain HTML, CSS, and JavaScript — no frameworks, no build tools, no server. Just open `index.html` and go.
 
-Made by **Tyron Vergara** as a learning project for [Generation MX](https://mx.generation.org/).
+Made by **Tyron Vergara** as a learning project for [Generation MX](https://mexico.generation.org/).
 
 ---
 
